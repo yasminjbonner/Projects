@@ -44,7 +44,7 @@ DeerImpact · Research Assistant · 2026 – Present
 
 </div>
 
-With deer populations increasing across Ireland, there is growing interest in understanding how their use of different habitats may influence the landscapes they occupy. As part of the DeerImpact research project, I work with camera trap data collected across agricultural and forest environments to investigate patterns of deer occurrence and activity.
+Deer are becoming an increasingly important issue for farmers in Ireland, with their presence in agricultural grasslands raising questions about the impact they may have on grass production. As part of the DeerImpact research project, I contributed to research investigating how deer activity may affect grasslands used for silage production, using field measurements and camera trap data to explore deer activity and its potential impact on grass availability.
 
 <div style="float:right; width:401px; margin-left:25px; margin-bottom:0px;">
 
@@ -58,9 +58,9 @@ With deer populations increasing across Ireland, there is growing interest in un
 
 </div>
 
-A large part of my work has involved turning field observations into meaningful ecological information. Alongside analysing thousands of camera-trap photographs, I have been collecting vegetation measurements to investigate how deer may be affecting grass availability. This involves comparing grass protected inside cages, where deer cannot access it, with unprotected grass growing outside the cages. By measuring, weighing and oven-drying the grass samples, I can calculate their dry matter weight and compare how much vegetation is available inside and outside the cages.
+As part of the fieldwork, I have been measuring grass biomass both inside and outside protective cages. The cages prevent deer from accessing the grass, providing a comparison with nearby grass that is freely accessible to them. Grass samples are collected, weighed and dried in an oven to determine their dry matter weight. Comparing the biomass inside and outside the cages helps us understand differences in grass availability where deer have access, which is particularly relevant to grass being grown for silage production.
 
-I have also been using R to organise and analyse the camera trap data, bringing together observations from different sites and identifying individual deer sightings. Combining these different types of information helps build a clearer picture of both where deer are using the landscape and how their presence may be affecting the vegetation around them. It has also given me experience of following ecological questions from field measurements through to data analysis and interpretation.
+Alongside the vegetation measurements, I have been working with thousands of camera trap photographs collected across the study sites. Combining the camera trap data with the grass measurements allows us to look at deer activity alongside changes in grass biomass, helping to build a better understanding of the potential impact of deer on agricultural grass production.
 
 Tools & methods: R · Camera trapping · Data management · Ecological analysis · Fieldwork
 
@@ -68,6 +68,14 @@ Tools & methods: R · Camera trapping · Data management · Ecological analysis 
 ### The Impact of Nutritional Stress on Bee Resilience to Insecticide Exposure
 
 MSc Research · UCD · Wildlife Conservation & Management
+
+![](bee2.JPG){style="display:block; margin:0 auto 5px auto; padding:8px; background:white;" fig-alt="Group of deer observed during fieldwork." width="800"}
+
+<div style="text-align:center; font-size:0.8em; color:#666; margin-bottom:20px;">
+
+*Osmia bicornis foraging on phacelia tanacetifolia. Photograph © Yasmin Bonner.*
+
+</div>
 
 For my MSc research, I investigated whether nutritional stress affected the ability of the solitary bee Osmia bicornis to cope with insecticide exposure. I designed an experiment comparing bees exposed to insecticide, nutritional stress, both stresses together, and an unstressed control.
 
