@@ -6,14 +6,6 @@ output:
   rmdformats::robobook
 ---
 
-```{r}
-#| label: load-packages
-#| include: false
-
-library(tidyverse)
-library(palmerpenguins)
-```
-
 ```{r setup, include=FALSE}
 
 knitr::opts_knit$set(root.dir = "~/GitHub/Projects")
@@ -44,6 +36,9 @@ I’m interested in wildlife habitat interactions, vegetation dynamics, biodiver
 DeerImpact · Research Assistant · 2026 – Present
 
 With deer populations increasing across Ireland, there is growing interest in understanding how their use of different habitats may influence the landscapes they occupy. As part of the DeerImpact research project, I work with camera trap data collected across agricultural and forest environments to investigate patterns of deer occurrence and activity.
+
+
+![](IMG_0490.JPG){style="float:right; margin-left:25px; margin-bottom:10px;" fig-alt="Fawn." width="401"}
 
 A large part of my work has involved turning thousands of individual camera observations into meaningful ecological information. I have been using R to organise and analyse the camera-trap data, bringing together observations from different sites and identifying individual deer sightings. This has allowed me to turn thousands of individual photographs into a clearer picture of how deer are using the landscape, while learning how the way data is processed can influence what we see in the results.
 
