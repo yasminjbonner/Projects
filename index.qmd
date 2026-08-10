@@ -35,14 +35,32 @@ I’m interested in wildlife habitat interactions, vegetation dynamics, biodiver
 
 DeerImpact · Research Assistant · 2026 – Present
 
-![](IMG_0665.JPG){style="float:center; margin-left:2px; margin-bottom:10px;" fig-alt="group." width="800"}
+
+![](IMG_0665.JPG){style="display:block; margin:0 auto 5px auto; padding:8px; background:white;" fig-alt="Group of deer observed during fieldwork." width="800"}
+
+<div style="text-align:center; font-size:0.8em; color:#666; margin-bottom:20px;">
+
+*Group of bachlors observed during fieldwork. Photograph © Molly Kennedy & Yasmin Bonner.*
+
+</div>
 
 With deer populations increasing across Ireland, there is growing interest in understanding how their use of different habitats may influence the landscapes they occupy. As part of the DeerImpact research project, I work with camera trap data collected across agricultural and forest environments to investigate patterns of deer occurrence and activity.
 
+<div style="float:right; width:401px; margin-left:25px; margin-bottom:0px;">
 
-![](IMG_0490.JPG){style="float:right; margin-left:25px; margin-bottom:10px;" fig-alt="Fawn." width="401"}
+![](IMG_0490.JPG){fig-alt="Fawn observed during fieldwork in Wicklow." width="401"}
 
-A large part of my work has involved turning thousands of individual camera observations into meaningful ecological information. I have been using R to organise and analyse the camera-trap data, bringing together observations from different sites and identifying individual deer sightings. This has allowed me to turn thousands of individual photographs into a clearer picture of how deer are using the landscape, while learning how the way data is processed can influence what we see in the results.
+<div style="text-align:center; font-size:0.8em; color:#666; margin-top:5px;">
+
+*Fawn observed during fieldwork in Wicklow. Photograph © Molly Kennedy & Yasmin Bonner.*
+
+</div>
+
+</div>
+
+A large part of my work has involved turning field observations into meaningful ecological information. Alongside analysing thousands of camera-trap photographs, I have been collecting vegetation measurements to investigate how deer may be affecting grass availability. This involves comparing grass protected inside cages, where deer cannot access it, with unprotected grass growing outside the cages. By measuring, weighing and oven-drying the grass samples, I can calculate their dry matter weight and compare how much vegetation is available inside and outside the cages.
+
+I have also been using R to organise and analyse the camera trap data, bringing together observations from different sites and identifying individual deer sightings. Combining these different types of information helps build a clearer picture of both where deer are using the landscape and how their presence may be affecting the vegetation around them. It has also given me experience of following ecological questions from field measurements through to data analysis and interpretation.
 
 Tools & methods: R · Camera trapping · Data management · Ecological analysis · Fieldwork
 
