@@ -16,9 +16,9 @@ library(palmerpenguins)
 
 ```{r setup, include=FALSE}
 
-knitr::opts_knit$set(root.dir = "~/GitHub/test")
+knitr::opts_knit$set(root.dir = "~/GitHub/Projects")
 
-setwd("~/GitHub/test")
+setwd("~/GitHub/Projects")
 ```
 
 ```{r, include = FALSE}
@@ -28,27 +28,37 @@ library(knitr)
 
 ```
 
-# 1. Tab 1
+# About Me
 
-woo stats
+I’m an ecology and environmental researcher with a background in wildlife conservation, horticulture and ecological fieldwork. My interests are understanding how wildlife interacts with habitats and how ecological data can be used to investigate environmental change.
 
-```{r cars}
-summary(cars)
-```
-## 4.5 Collinearity and Multicollinearity Check {.tabset .tabset-fade .tabset-pills}
+I currently work as a Research Assistant on the DeerImpact project, investigating the ecological impacts of deer across Irish agricultural and forest landscapes. My work includes camera trap data analysis, ecological fieldwork, data management, R programming and spatial analysis.
+
+My previous research includes an MSc project investigating how nutritional stress influences the resilience of solitary bees to insecticide exposure, combining experimental ecology with behavioural observations and statistical modelling.
+
+I’m interested in wildlife habitat interactions, vegetation dynamics, biodiversity monitoring and applied ecological research.
+
+# Projects
+### Understanding Deer in the Irish Landscape
+
+DeerImpact · Research Assistant · 2026 – Present
+
+With deer populations increasing across Ireland, there is growing interest in understanding how their use of different habitats may influence the landscapes they occupy. As part of the DeerImpact research project, I work with camera trap data collected across agricultural and forest environments to investigate patterns of deer occurrence and activity.
+
+A large part of my work has involved turning thousands of individual camera observations into meaningful ecological information. I have been using R to organise and analyse the camera-trap data, bringing together observations from different sites and identifying individual deer sightings. This has allowed me to turn thousands of individual photographs into a clearer picture of how deer are using the landscape, while learning how the way data is processed can influence what we see in the results.
+
+Tools & methods: R · Camera trapping · Data management · Ecological analysis · Fieldwork
 
 
-### 4.3.1 Boxplots
-You can also embed plots, for example:
+### The Impact of Nutritional Stress on Bee Resilience to Insecticide Exposure
 
+MSc Research · UCD · Wildlife Conservation & Management
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+For my MSc research, I investigated whether nutritional stress affected the ability of the solitary bee Osmia bicornis to cope with insecticide exposure. I designed an experiment comparing bees exposed to insecticide, nutritional stress, both stresses together, and an unstressed control.
 
-### 4.3.2 Hotdogzzzzzz
+The project combined hands-on experimental ecology with data analysis. I managed over 400 flowering plants used within the experimental system, carried out behavioural observations and organised the resulting data for statistical analysis in R. I used Generalised Linear Mixed Models to investigate treatment effects and explore how different stressors interacted.
 
-You can also embed plots, for example:
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+The project introduced me to a question that continues to interest me: ecological problems rarely happen in isolation. Understanding how different pressures interact can give us a much better picture of what wildlife is experiencing in the real world.
 
-# 2. Tab 2
+Tools & methods: R · GLMMs · Experimental ecology · Behavioural observation · BORIS
+
