@@ -1,0 +1,54 @@
+---
+title: 'Projects '
+author: "Yasmin Bonner "
+date: "`r Sys.Date()`"
+output:
+  rmdformats::robobook
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+
+```{r setup, include=FALSE}
+
+knitr::opts_knit$set(root.dir = "~/GitHub/test")
+
+setwd("~/GitHub/test")
+```
+
+```{r, include = FALSE}
+
+library(rmdformats)
+library(knitr)
+
+```
+
+# 1. Tab 1
+
+woo stats
+
+```{r cars}
+summary(cars)
+```
+## 4.5 Collinearity and Multicollinearity Check {.tabset .tabset-fade .tabset-pills}
+
+
+### 4.3.1 Boxplots
+You can also embed plots, for example:
+
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+### 4.3.2 Hotdogzzzzzz
+
+You can also embed plots, for example:
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+# 2. Tab 2
