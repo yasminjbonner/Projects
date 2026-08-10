@@ -69,13 +69,14 @@ Tools & methods: R · Camera trapping · Data management · Ecological analysis 
 
 MSc Research · UCD · Wildlife Conservation & Management
 
-![](bee2.JPG){style="display:block; margin:0 auto 5px auto; padding:8px; background:white;" fig-alt="Osmia." width="800"}
+![](bee.JPG){style="display:block; margin:0 auto 5px auto; padding:8px; background:white;" fig-alt="osmia." width="795"}
 
 <div style="text-align:center; font-size:0.8em; color:#666; margin-bottom:20px;">
 
 *Osmia bicornis foraging on phacelia tanacetifolia. Photograph © Yasmin Bonner.*
 
 </div>
+
 
 For my MSc research, I investigated whether nutritional stress affected the ability of the solitary bee Osmia bicornis to cope with insecticide exposure. I designed an experiment comparing bees exposed to insecticide, nutritional stress, both stresses together, and an unstressed control.
 
